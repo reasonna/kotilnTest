@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">completed</string>
+    <string name="completed">All tasks completed</string>
+</resources>
